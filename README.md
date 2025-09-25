@@ -15,9 +15,9 @@ Users can browse tech related info and tap to open the full article in the app
 ## 📱 Screenshots  
 
 <p align="left">
-  <img src="Document/screenshot1.png" alt="Main News Feed" width="250"/>
-  <img src="Document/screenshot2.png" alt="Article Opened" width="250"/>
-  <img src="Document/screenshot3.png" alt="Article Opened" width="250"/>
+  <img src="Document/screenshot4.png" alt="Main News Feed" width="250"/>
+  <img src="Document/screenshot5.png" alt="Article Opened" width="250"/>
+  <img src="Document/screenshot6.png" alt="Article Opened" width="250"/>
 </p>  
 
 ---
